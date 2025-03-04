@@ -11,7 +11,7 @@ const AboutMe = () => {
         <div className="md:col-span-1">
           <div className="bg-white rounded-lg shadow-md overflow-hidden">
             <img 
-              src='asset\images\my_photo.jpeg' 
+              src='asset/images/new_pic.jpg' 
               alt="Profile" 
               className="w-full h-64 object-cover object-center"
             />
