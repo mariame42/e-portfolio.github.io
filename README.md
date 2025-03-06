@@ -21,6 +21,7 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory.
 3. Run the following command:
    ```sh
+   install npm
    npm run dev
    ```
 4. Copy the local development server link (e.g., `http://localhost:5174/`).
