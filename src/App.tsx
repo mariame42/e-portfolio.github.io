@@ -92,7 +92,7 @@ function App() {
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600 transition-colors">
                 <Twitter size={20} />
               </a>
-              <a href="mailto:student@42abudhabi.ae" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <a href="mailto:meid@student.42abudhabi.ae" className="text-gray-600 hover:text-blue-600 transition-colors">
                 <Mail size={20} />
               </a>
             </div>
