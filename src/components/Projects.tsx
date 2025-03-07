@@ -27,7 +27,7 @@ const Projects = () => {
       description: 'A responsive portfolio website for Learning to learn modile',
       technologies: ['TypeScript', 'Ai'],
       image: 'asset/images/e-portfolio.jpg',
-      github: 'https://github.com/mariame42/web_page',
+      github: 'https://github.com/mariame42/mariame42.github.io',
       demo: null,
       date: 'May 2025'
     },
